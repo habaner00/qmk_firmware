@@ -1,0 +1,29 @@
+{
+    "keyboard": "ez_maker/directpins/rp2040",
+    "keymap": "default",
+    "layout": "LAYOUT",
+    "layers": [
+        [
+            "KC_Q",
+            "KC_W",
+            "KC_E",
+            "KC_R",
+            "TO(1)",
+            "KC_1",
+            "KC_2",
+            "KC_3",
+            "KC_4"
+        ],
+        [
+            "RGB_TOG",
+            "RGB_HUI",
+            "RGB_SAI",
+            "RGB_VAI",
+            "TO(0)",
+            "RGB_TOG",
+            "RGB_HUD",
+            "RGB_SAD",
+            "RGB_VAD"
+        ]
+    ]
+}
